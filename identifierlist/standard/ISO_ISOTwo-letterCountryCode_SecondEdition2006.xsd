@@ -4,8 +4,8 @@
 <!-- ====================================================================== -->
 <!--
 Schema agency:      UN/CEFACT
-Schema version:     8.6
-Schema date:        11July2015
+Schema version:     8.7
+Schema date:        05November2015
 
 Code list name:     ISO Two-letter Country Code
 Code list agency:   ISO
@@ -19,7 +19,7 @@ The limited permissions granted above are perpetual and will not be revoked by U
 
 This document and the information contained herein is provided on an "AS IS" basis and UN/CEFACT DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTY THAT THE USE OF THE INFORMATION HEREIN WILL NOT INFRINGE ANY RIGHTS OR ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
 -->
-<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:ids5ISO316612A="urn:un:unece:uncefact:identifierlist:standard:ISO:ISOTwo-letterCountryCode:SecondEdition2006" xmlns:ccts="urn:un:unece:uncefact:documentation:standard:CoreComponentsTechnicalSpecification:2" targetNamespace="urn:un:unece:uncefact:identifierlist:standard:ISO:ISOTwo-letterCountryCode:SecondEdition2006" elementFormDefault="qualified" attributeFormDefault="unqualified" version="8.6">
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:ids5ISO316612A="urn:un:unece:uncefact:identifierlist:standard:ISO:ISOTwo-letterCountryCode:SecondEdition2006" xmlns:ccts="urn:un:unece:uncefact:documentation:standard:CoreComponentsTechnicalSpecification:2" targetNamespace="urn:un:unece:uncefact:identifierlist:standard:ISO:ISOTwo-letterCountryCode:SecondEdition2006" elementFormDefault="qualified" attributeFormDefault="unqualified" version="8.7">
 <!-- ======================================================================= -->
 <!-- ===== Element Declarations                                        ===== -->
 <!-- ======================================================================= -->
@@ -232,7 +232,7 @@ This document and the information contained herein is provided on an "AS IS" bas
       <xsd:enumeration value="BO">
         <xsd:annotation>
           <xsd:documentation xml:lang="en">
-            <ccts:Name>BOLIVIA, PLURINATIONAL STATE OF</ccts:Name>
+            <ccts:Name>BOLIVIA (PLURINATIONAL STATE OF)</ccts:Name>
           </xsd:documentation>
         </xsd:annotation>
       </xsd:enumeration>
@@ -309,7 +309,7 @@ This document and the information contained herein is provided on an "AS IS" bas
       <xsd:enumeration value="CD">
         <xsd:annotation>
           <xsd:documentation xml:lang="en">
-            <ccts:Name>CONGO, THE DEMOCRATIC REPUBLIC OF THE</ccts:Name>
+            <ccts:Name>CONGO, DEMOCRATIC REPUBLIC OF</ccts:Name>
           </xsd:documentation>
         </xsd:annotation>
       </xsd:enumeration>
@@ -540,7 +540,7 @@ This document and the information contained herein is provided on an "AS IS" bas
       <xsd:enumeration value="FM">
         <xsd:annotation>
           <xsd:documentation xml:lang="en">
-            <ccts:Name>MICRONESIA, FEDERATED STATES OF</ccts:Name>
+            <ccts:Name>MICRONESIA (FEDERATED STATES OF)</ccts:Name>
           </xsd:documentation>
         </xsd:annotation>
       </xsd:enumeration>
@@ -568,7 +568,7 @@ This document and the information contained herein is provided on an "AS IS" bas
       <xsd:enumeration value="GB">
         <xsd:annotation>
           <xsd:documentation xml:lang="en">
-            <ccts:Name>UNITED KINGDOM</ccts:Name>
+            <ccts:Name>UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND</ccts:Name>
           </xsd:documentation>
         </xsd:annotation>
       </xsd:enumeration>
@@ -785,7 +785,7 @@ This document and the information contained herein is provided on an "AS IS" bas
       <xsd:enumeration value="IR">
         <xsd:annotation>
           <xsd:documentation xml:lang="en">
-            <ccts:Name>IRAN, ISLAMIC REPUBLIC OF</ccts:Name>
+            <ccts:Name>IRAN (ISLAMIC REPUBLIC OF)</ccts:Name>
           </xsd:documentation>
         </xsd:annotation>
       </xsd:enumeration>
@@ -876,7 +876,7 @@ This document and the information contained herein is provided on an "AS IS" bas
       <xsd:enumeration value="KP">
         <xsd:annotation>
           <xsd:documentation xml:lang="en">
-            <ccts:Name>KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF</ccts:Name>
+            <ccts:Name>KOREA (DEMOCRATIC PEOPLE'S REPUBLIC OF)</ccts:Name>
           </xsd:documentation>
         </xsd:annotation>
       </xsd:enumeration>
@@ -1002,7 +1002,7 @@ This document and the information contained herein is provided on an "AS IS" bas
       <xsd:enumeration value="MD">
         <xsd:annotation>
           <xsd:documentation xml:lang="en">
-            <ccts:Name>MOLDOVA</ccts:Name>
+            <ccts:Name>MOLDOVA, REPUBLIC OF</ccts:Name>
           </xsd:documentation>
         </xsd:annotation>
       </xsd:enumeration>
@@ -1662,7 +1662,7 @@ DE: Die Bundesrepublik Deutschland erkennt einen palästinensischen Staat nicht 
       <xsd:enumeration value="US">
         <xsd:annotation>
           <xsd:documentation xml:lang="en">
-            <ccts:Name>UNITED STATES</ccts:Name>
+            <ccts:Name>UNITED STATES OF AMERICA</ccts:Name>
           </xsd:documentation>
         </xsd:annotation>
       </xsd:enumeration>
@@ -1683,7 +1683,7 @@ DE: Die Bundesrepublik Deutschland erkennt einen palästinensischen Staat nicht 
       <xsd:enumeration value="VA">
         <xsd:annotation>
           <xsd:documentation xml:lang="en">
-            <ccts:Name>HOLY SEE (VATICAN CITY STATE)</ccts:Name>
+            <ccts:Name>HOLY SEE</ccts:Name>
           </xsd:documentation>
         </xsd:annotation>
       </xsd:enumeration>
@@ -1697,7 +1697,7 @@ DE: Die Bundesrepublik Deutschland erkennt einen palästinensischen Staat nicht 
       <xsd:enumeration value="VE">
         <xsd:annotation>
           <xsd:documentation xml:lang="en">
-            <ccts:Name>VENEZUELA, BOLIVARIAN REPUBLIC OF</ccts:Name>
+            <ccts:Name>VENEZUELA (BOLIVARIAN REPUBLIC OF)</ccts:Name>
           </xsd:documentation>
         </xsd:annotation>
       </xsd:enumeration>
