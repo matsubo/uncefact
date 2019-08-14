@@ -4,14 +4,14 @@
 <!-- ====================================================================== -->
 <!--
 Schema agency:  UN/CEFACT
-Schema version: 9.10
-Schema date:    28NOV2018
+Schema version: 9.11
+Schema date:    04 November 2015
 
 Code list name:     ISO 3 Alpha Currency Code
 Code list agency:   ISO
 Code list version:  2012-08-31
 
-Copyright (C) UN/CEFACT (2018). All Rights Reserved.
+Copyright (C) UN/CEFACT (2015). All Rights Reserved.
 
 This document and translations of it may be copied and furnished to others, 
 and derivative works that comment on or otherwise explain it or assist 
@@ -34,7 +34,7 @@ BUT NOT LIMITED TO ANY WARRANTY THAT THE USE OF THE INFORMATION HEREIN WILL
 NOT INFRINGE ANY RIGHTS OR ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR 
 FITNESS FOR A PARTICULAR PURPOSE.
 -->
-<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:clm5ISO42173A="urn:un:unece:uncefact:codelist:standard:ISO:ISO3AlphaCurrencyCode:2012-08-31" xmlns:ccts="urn:un:unece:uncefact:documentation:standard:CoreComponentsTechnicalSpecification:2" targetNamespace="urn:un:unece:uncefact:codelist:standard:ISO:ISO3AlphaCurrencyCode:2012-08-31" elementFormDefault="qualified" attributeFormDefault="unqualified" version="9.10">
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:clm5ISO42173A="urn:un:unece:uncefact:codelist:standard:ISO:ISO3AlphaCurrencyCode:2012-08-31" xmlns:ccts="urn:un:unece:uncefact:documentation:standard:CoreComponentsTechnicalSpecification:2" targetNamespace="urn:un:unece:uncefact:codelist:standard:ISO:ISO3AlphaCurrencyCode:2012-08-31" elementFormDefault="qualified" attributeFormDefault="unqualified" version="9.11">
 <!-- ======================================================================= -->
 <!-- ===== Element Declarations                                        ===== -->
 <!-- ======================================================================= -->
@@ -1102,7 +1102,7 @@ FITNESS FOR A PARTICULAR PURPOSE.
       <xsd:enumeration value="UYI">
         <xsd:annotation>
           <xsd:documentation xml:lang="en">
-            <ccts:Name>Uruguayo Peso en Unidades Indexadas (UI)</ccts:Name>
+            <ccts:Name>Uruguayo Peso en Unidades</ccts:Name>
           </xsd:documentation>
         </xsd:annotation>
       </xsd:enumeration>
@@ -1113,17 +1113,17 @@ FITNESS FOR A PARTICULAR PURPOSE.
           </xsd:documentation>
         </xsd:annotation>
       </xsd:enumeration>
+      <xsd:enumeration value="UYW">
+        <xsd:annotation>
+          <xsd:documentation xml:lang="en">
+            <ccts:Name>Unidad Previsional</ccts:Name>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
       <xsd:enumeration value="UZS">
         <xsd:annotation>
           <xsd:documentation xml:lang="en">
             <ccts:Name>Uzbekistan Sum</ccts:Name>
-          </xsd:documentation>
-        </xsd:annotation>
-      </xsd:enumeration>
-      <xsd:enumeration value="VEF">
-        <xsd:annotation>
-          <xsd:documentation xml:lang="en">
-            <ccts:Name>Bolívar</ccts:Name>
           </xsd:documentation>
         </xsd:annotation>
       </xsd:enumeration>

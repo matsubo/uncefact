@@ -4,14 +4,14 @@
 <!-- ====================================================================== -->
 <!--
 Schema agency:  UN/CEFACT
-Schema version: 3.2
-Schema date:    28NOV2018
+Schema version: 3.3
+Schema date:    31JAN13
 
 Code list name:     Character Set Encoding Code
 Code list agency:   UNECE
 Code list version:  40106
 
-Copyright (C) UN/CEFACT (2018). All Rights Reserved.
+Copyright (C) UN/CEFACT (AN13). All Rights Reserved.
 
 This document and translations of it may be copied and furnished to others, 
 and derivative works that comment on or otherwise explain it or assist 
@@ -34,7 +34,7 @@ BUT NOT LIMITED TO ANY WARRANTY THAT THE USE OF THE INFORMATION HEREIN WILL
 NOT INFRINGE ANY RIGHTS OR ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR 
 FITNESS FOR A PARTICULAR PURPOSE.
 -->
-<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:clm60133="urn:un:unece:uncefact:codelist:standard:6:0133:40106" xmlns:ccts="urn:un:unece:uncefact:documentation:standard:CoreComponentsTechnicalSpecification:2" targetNamespace="urn:un:unece:uncefact:codelist:standard:6:0133:40106" elementFormDefault="qualified" attributeFormDefault="unqualified" version="3.2">
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:clm60133="urn:un:unece:uncefact:codelist:standard:6:0133:40106" xmlns:ccts="urn:un:unece:uncefact:documentation:standard:CoreComponentsTechnicalSpecification:2" targetNamespace="urn:un:unece:uncefact:codelist:standard:6:0133:40106" elementFormDefault="qualified" attributeFormDefault="unqualified" version="3.3">
 <!-- ======================================================================= -->
 <!-- ===== Element Declarations                                        ===== -->
 <!-- ======================================================================= -->
