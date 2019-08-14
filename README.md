@@ -1,4 +1,4 @@
-# Copy of UN/CEFACT XML Schema data.
+# Snapshot UN/CEFACT XML Schema
 
 - Copied xsd fileset from following URL and added tag for each release.
   - https://www.unece.org/cefact/xml_schemas/index
