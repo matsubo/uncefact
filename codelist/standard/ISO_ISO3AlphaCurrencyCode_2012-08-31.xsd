@@ -4,8 +4,8 @@
 <!-- ====================================================================== -->
 <!--
 Schema agency:  UN/CEFACT
-Schema version: 9.8
-Schema date:    19NOV17
+Schema version: 9.9
+Schema date:    03NOV17
 
 Code list name:     ISO 3 Alpha Currency Code
 Code list agency:   ISO
@@ -34,7 +34,7 @@ BUT NOT LIMITED TO ANY WARRANTY THAT THE USE OF THE INFORMATION HEREIN WILL
 NOT INFRINGE ANY RIGHTS OR ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR 
 FITNESS FOR A PARTICULAR PURPOSE.
 -->
-<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:clm5ISO42173A="urn:un:unece:uncefact:codelist:standard:ISO:ISO3AlphaCurrencyCode:2012-08-31" xmlns:ccts="urn:un:unece:uncefact:documentation:standard:CoreComponentsTechnicalSpecification:2" targetNamespace="urn:un:unece:uncefact:codelist:standard:ISO:ISO3AlphaCurrencyCode:2012-08-31" elementFormDefault="qualified" attributeFormDefault="unqualified" version="9.8">
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:clm5ISO42173A="urn:un:unece:uncefact:codelist:standard:ISO:ISO3AlphaCurrencyCode:2012-08-31" xmlns:ccts="urn:un:unece:uncefact:documentation:standard:CoreComponentsTechnicalSpecification:2" targetNamespace="urn:un:unece:uncefact:codelist:standard:ISO:ISO3AlphaCurrencyCode:2012-08-31" elementFormDefault="qualified" attributeFormDefault="unqualified" version="9.9">
 <!-- ======================================================================= -->
 <!-- ===== Element Declarations                                        ===== -->
 <!-- ======================================================================= -->
@@ -842,7 +842,7 @@ FITNESS FOR A PARTICULAR PURPOSE.
       <xsd:enumeration value="PHP">
         <xsd:annotation>
           <xsd:documentation xml:lang="en">
-            <ccts:Name>Philippine Peso</ccts:Name>
+            <ccts:Name>Philippine Piso</ccts:Name>
           </xsd:documentation>
         </xsd:annotation>
       </xsd:enumeration>
@@ -980,7 +980,7 @@ FITNESS FOR A PARTICULAR PURPOSE.
           </xsd:documentation>
         </xsd:annotation>
       </xsd:enumeration>
-      <xsd:enumeration value="STD">
+      <xsd:enumeration value="STN">
         <xsd:annotation>
           <xsd:documentation xml:lang="en">
             <ccts:Name>Dobra</ccts:Name>

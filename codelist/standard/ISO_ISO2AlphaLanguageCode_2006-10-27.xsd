@@ -4,8 +4,8 @@
 <!-- ====================================================================== -->
 <!--
 Schema agency:      UN/CEFACT
-Schema version:     1.0
-Schema date:        19NOV17
+Schema version:     1.1
+Schema date:        03NOV17
 
 Code list name:     ISO 2 Alpha Language Code
 Code list agency:   ISO
@@ -19,7 +19,7 @@ The limited permissions granted above are perpetual and will not be revoked by U
 
 This document and the information contained herein is provided on an "AS IS" basis and UN/CEFACT DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTY THAT THE USE OF THE INFORMATION HEREIN WILL NOT INFRINGE ANY RIGHTS OR ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
 -->
-<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:clm5ISO63912A="urn:un:unece:uncefact:codelist:standard:ISO:ISO2AlphaLanguageCode:2006-10-27" xmlns:ccts="urn:un:unece:uncefact:documentation:standard:CoreComponentsTechnicalSpecification:2" targetNamespace="urn:un:unece:uncefact:codelist:standard:ISO:ISO2AlphaLanguageCode:2006-10-27" elementFormDefault="qualified" attributeFormDefault="unqualified" version="1.0">
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:clm5ISO63912A="urn:un:unece:uncefact:codelist:standard:ISO:ISO2AlphaLanguageCode:2006-10-27" xmlns:ccts="urn:un:unece:uncefact:documentation:standard:CoreComponentsTechnicalSpecification:2" targetNamespace="urn:un:unece:uncefact:codelist:standard:ISO:ISO2AlphaLanguageCode:2006-10-27" elementFormDefault="qualified" attributeFormDefault="unqualified" version="1.1">
 <!-- ======================================================================= -->
 <!-- ===== Element Declarations                                        ===== -->
 <!-- ======================================================================= -->
@@ -246,14 +246,14 @@ This document and the information contained herein is provided on an "AS IS" bas
       <xsd:enumeration value="bh">
         <xsd:annotation>
           <xsd:documentation xml:lang="en">
-            <ccts:Name>Bihari languages</ccts:Name>
+            <ccts:Name>Bihari</ccts:Name>
           </xsd:documentation>
         </xsd:annotation>
       </xsd:enumeration>
       <xsd:enumeration value="BH">
         <xsd:annotation>
           <xsd:documentation xml:lang="en">
-            <ccts:Name>Bihari languages</ccts:Name>
+            <ccts:Name>Bihari</ccts:Name>
           </xsd:documentation>
         </xsd:annotation>
       </xsd:enumeration>
@@ -960,14 +960,14 @@ This document and the information contained herein is provided on an "AS IS" bas
       <xsd:enumeration value="ie">
         <xsd:annotation>
           <xsd:documentation xml:lang="en">
-            <ccts:Name>Interlingue; Occidental</ccts:Name>
+            <ccts:Name>Interlingue</ccts:Name>
           </xsd:documentation>
         </xsd:annotation>
       </xsd:enumeration>
       <xsd:enumeration value="IE">
         <xsd:annotation>
           <xsd:documentation xml:lang="en">
-            <ccts:Name>Interlingue; Occidental</ccts:Name>
+            <ccts:Name>Interlingue</ccts:Name>
           </xsd:documentation>
         </xsd:annotation>
       </xsd:enumeration>
@@ -988,14 +988,14 @@ This document and the information contained herein is provided on an "AS IS" bas
       <xsd:enumeration value="ii">
         <xsd:annotation>
           <xsd:documentation xml:lang="en">
-            <ccts:Name>Sichuan Yi; Nuosu</ccts:Name>
+            <ccts:Name>Sichuan Yi</ccts:Name>
           </xsd:documentation>
         </xsd:annotation>
       </xsd:enumeration>
       <xsd:enumeration value="II">
         <xsd:annotation>
           <xsd:documentation xml:lang="en">
-            <ccts:Name>Sichuan Yi; Nuosu</ccts:Name>
+            <ccts:Name>Sichuan Yi</ccts:Name>
           </xsd:documentation>
         </xsd:annotation>
       </xsd:enumeration>
@@ -1744,14 +1744,14 @@ This document and the information contained herein is provided on an "AS IS" bas
       <xsd:enumeration value="oc">
         <xsd:annotation>
           <xsd:documentation xml:lang="en">
-            <ccts:Name>Occitan (post 1500)</ccts:Name>
+            <ccts:Name>Occitan (post 1500); Provencal</ccts:Name>
           </xsd:documentation>
         </xsd:annotation>
       </xsd:enumeration>
       <xsd:enumeration value="OC">
         <xsd:annotation>
           <xsd:documentation xml:lang="en">
-            <ccts:Name>Occitan (post 1500)</ccts:Name>
+            <ccts:Name>Occitan (post 1500); Provencal</ccts:Name>
           </xsd:documentation>
         </xsd:annotation>
       </xsd:enumeration>

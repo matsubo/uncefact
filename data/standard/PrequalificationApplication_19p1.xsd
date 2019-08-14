@@ -5,7 +5,7 @@
 <!--
 Schema agency:  UNCEFACT
 Schema version: 19.1
-Schema date:    19NOV17
+Schema date:    03NOV17
 
 Copyright (C) UN/CEFACT (OV17). All Rights Reserved.
 
@@ -15,22 +15,22 @@ The limited permissions granted above are perpetual and will not be revoked by U
 
 This document and the information contained herein is provided on an "AS IS" basis and UN/CEFACT DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTY THAT THE USE OF THE INFORMATION HEREIN WILL NOT INFRINGE ANY RIGHTS OR ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
 -->
-<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:rsm="urn:un:unece:uncefact:data:standard:PrequalificationApplication:19" xmlns:ccts="urn:un:unece:uncefact:documentation:standard:CoreComponentsTechnicalSpecification:2" xmlns:udt="urn:un:unece:uncefact:data:standard:UnqualifiedDataType:22" xmlns:qdt="urn:un:unece:uncefact:data:Standard:QualifiedDataType:22" xmlns:ram="urn:un:unece:uncefact:data:standard:ReusableAggregateBusinessInformationEntity:22" targetNamespace="urn:un:unece:uncefact:data:standard:PrequalificationApplication:19" elementFormDefault="qualified" attributeFormDefault="unqualified" version="19.1">
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:rsm="urn:un:unece:uncefact:data:standard:PrequalificationApplication:19" xmlns:ccts="urn:un:unece:uncefact:documentation:standard:CoreComponentsTechnicalSpecification:2" xmlns:udt="urn:un:unece:uncefact:data:standard:UnqualifiedDataType:23" xmlns:qdt="urn:un:unece:uncefact:data:Standard:QualifiedDataType:23" xmlns:ram="urn:un:unece:uncefact:data:standard:ReusableAggregateBusinessInformationEntity:23" targetNamespace="urn:un:unece:uncefact:data:standard:PrequalificationApplication:19" elementFormDefault="qualified" attributeFormDefault="unqualified" version="19.1">
 <!-- ======================================================================= -->
 <!-- ===== Imports                                                     ===== -->
 <!-- ======================================================================= -->
 <!-- ======================================================================= -->
 <!-- ===== Import of Unqualified Data Type Schema Module               ===== -->
 <!-- ======================================================================= -->
-  <xsd:import namespace="urn:un:unece:uncefact:data:standard:UnqualifiedDataType:22" schemaLocation="UnqualifiedDataType_22p0.xsd"/>
+  <xsd:import namespace="urn:un:unece:uncefact:data:standard:UnqualifiedDataType:23" schemaLocation="UnqualifiedDataType_23p0.xsd"/>
 <!-- ======================================================================= -->
 <!-- ===== Import of Qualified Data Type Schema Module                 ===== -->
 <!-- ======================================================================= -->
-  <xsd:import namespace="urn:un:unece:uncefact:data:Standard:QualifiedDataType:22" schemaLocation="QualifiedDataType_22p0.xsd"/>
+  <xsd:import namespace="urn:un:unece:uncefact:data:Standard:QualifiedDataType:23" schemaLocation="QualifiedDataType_23p0.xsd"/>
 <!-- ======================================================================= -->
 <!-- ===== Import of Reusable Aggregate Business Information Entity Schema Module ===== -->
 <!-- ======================================================================= -->
-  <xsd:import namespace="urn:un:unece:uncefact:data:standard:ReusableAggregateBusinessInformationEntity:22" schemaLocation="ReusableAggregateBusinessInformationEntity_22p0.xsd"/>
+  <xsd:import namespace="urn:un:unece:uncefact:data:standard:ReusableAggregateBusinessInformationEntity:23" schemaLocation="ReusableAggregateBusinessInformationEntity_23p0.xsd"/>
 <!-- ======================================================================= -->
 <!-- ===== Element Declarations                                        ===== -->
 <!-- ======================================================================= -->
