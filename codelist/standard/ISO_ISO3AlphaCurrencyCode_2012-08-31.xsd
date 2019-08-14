@@ -4,14 +4,14 @@
 <!-- ====================================================================== -->
 <!--
 Schema agency:  UN/CEFACT
-Schema version: 9.7
-Schema date:    18MAR17
+Schema version: 9.8
+Schema date:    19NOV17
 
 Code list name:     ISO 3 Alpha Currency Code
 Code list agency:   ISO
 Code list version:  2012-08-31
 
-Copyright (C) UN/CEFACT (AR17). All Rights Reserved.
+Copyright (C) UN/CEFACT (OV17). All Rights Reserved.
 
 This document and translations of it may be copied and furnished to others, 
 and derivative works that comment on or otherwise explain it or assist 
@@ -34,7 +34,7 @@ BUT NOT LIMITED TO ANY WARRANTY THAT THE USE OF THE INFORMATION HEREIN WILL
 NOT INFRINGE ANY RIGHTS OR ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR 
 FITNESS FOR A PARTICULAR PURPOSE.
 -->
-<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:clm5ISO42173A="urn:un:unece:uncefact:codelist:standard:ISO:ISO3AlphaCurrencyCode:2012-08-31" xmlns:ccts="urn:un:unece:uncefact:documentation:standard:CoreComponentsTechnicalSpecification:2" targetNamespace="urn:un:unece:uncefact:codelist:standard:ISO:ISO3AlphaCurrencyCode:2012-08-31" elementFormDefault="qualified" attributeFormDefault="unqualified" version="9.7">
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:clm5ISO42173A="urn:un:unece:uncefact:codelist:standard:ISO:ISO3AlphaCurrencyCode:2012-08-31" xmlns:ccts="urn:un:unece:uncefact:documentation:standard:CoreComponentsTechnicalSpecification:2" targetNamespace="urn:un:unece:uncefact:codelist:standard:ISO:ISO3AlphaCurrencyCode:2012-08-31" elementFormDefault="qualified" attributeFormDefault="unqualified" version="9.8">
 <!-- ======================================================================= -->
 <!-- ===== Element Declarations                                        ===== -->
 <!-- ======================================================================= -->
@@ -114,7 +114,7 @@ FITNESS FOR A PARTICULAR PURPOSE.
       <xsd:enumeration value="AZN">
         <xsd:annotation>
           <xsd:documentation xml:lang="en">
-            <ccts:Name>Azerbaijanian Manat</ccts:Name>
+            <ccts:Name>Azerbaijan Manat</ccts:Name>
           </xsd:documentation>
         </xsd:annotation>
       </xsd:enumeration>
@@ -443,7 +443,7 @@ FITNESS FOR A PARTICULAR PURPOSE.
       <xsd:enumeration value="GNF">
         <xsd:annotation>
           <xsd:documentation xml:lang="en">
-            <ccts:Name>Guinea Franc</ccts:Name>
+            <ccts:Name>Guinean Franc</ccts:Name>
           </xsd:documentation>
         </xsd:annotation>
       </xsd:enumeration>
@@ -583,7 +583,7 @@ FITNESS FOR A PARTICULAR PURPOSE.
       <xsd:enumeration value="KMF">
         <xsd:annotation>
           <xsd:documentation xml:lang="en">
-            <ccts:Name>Comoro Franc</ccts:Name>
+            <ccts:Name>Comorian Franc</ccts:Name>
           </xsd:documentation>
         </xsd:annotation>
       </xsd:enumeration>
@@ -625,7 +625,7 @@ FITNESS FOR A PARTICULAR PURPOSE.
       <xsd:enumeration value="LAK">
         <xsd:annotation>
           <xsd:documentation xml:lang="en">
-            <ccts:Name>Kip</ccts:Name>
+            <ccts:Name>Lao Kip</ccts:Name>
           </xsd:documentation>
         </xsd:annotation>
       </xsd:enumeration>
@@ -1102,7 +1102,7 @@ FITNESS FOR A PARTICULAR PURPOSE.
       <xsd:enumeration value="UYI">
         <xsd:annotation>
           <xsd:documentation xml:lang="en">
-            <ccts:Name>Uruguayo Peso en Unidades Indexadas</ccts:Name>
+            <ccts:Name>Uruguayo Peso en Unidades Indexadas (UI)</ccts:Name>
           </xsd:documentation>
         </xsd:annotation>
       </xsd:enumeration>
