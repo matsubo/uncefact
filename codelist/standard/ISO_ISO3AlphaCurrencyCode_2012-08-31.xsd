@@ -4,8 +4,8 @@
 <!-- ====================================================================== -->
 <!--
 Schema agency:  UN/CEFACT
-Schema version: 9.6
-Schema date:    15 April 2016
+Schema version: 9.7
+Schema date:    21 September 2016
 
 Code list name:     ISO 3 Alpha Currency Code
 Code list agency:   ISO
@@ -34,7 +34,7 @@ BUT NOT LIMITED TO ANY WARRANTY THAT THE USE OF THE INFORMATION HEREIN WILL
 NOT INFRINGE ANY RIGHTS OR ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR 
 FITNESS FOR A PARTICULAR PURPOSE.
 -->
-<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:clm5ISO42173A="urn:un:unece:uncefact:codelist:standard:ISO:ISO3AlphaCurrencyCode:2012-08-31" xmlns:ccts="urn:un:unece:uncefact:documentation:standard:CoreComponentsTechnicalSpecification:2" targetNamespace="urn:un:unece:uncefact:codelist:standard:ISO:ISO3AlphaCurrencyCode:2012-08-31" elementFormDefault="qualified" attributeFormDefault="unqualified" version="9.6">
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:clm5ISO42173A="urn:un:unece:uncefact:codelist:standard:ISO:ISO3AlphaCurrencyCode:2012-08-31" xmlns:ccts="urn:un:unece:uncefact:documentation:standard:CoreComponentsTechnicalSpecification:2" targetNamespace="urn:un:unece:uncefact:codelist:standard:ISO:ISO3AlphaCurrencyCode:2012-08-31" elementFormDefault="qualified" attributeFormDefault="unqualified" version="9.7">
 <!-- ======================================================================= -->
 <!-- ===== Element Declarations                                        ===== -->
 <!-- ======================================================================= -->
@@ -216,7 +216,7 @@ FITNESS FOR A PARTICULAR PURPOSE.
           </xsd:documentation>
         </xsd:annotation>
       </xsd:enumeration>
-      <xsd:enumeration value="BYR">
+      <xsd:enumeration value="BYN">
         <xsd:annotation>
           <xsd:documentation xml:lang="en">
             <ccts:Name>Belarussian Ruble</ccts:Name>
@@ -737,7 +737,7 @@ FITNESS FOR A PARTICULAR PURPOSE.
       <xsd:enumeration value="MWK">
         <xsd:annotation>
           <xsd:documentation xml:lang="en">
-            <ccts:Name>Kwacha</ccts:Name>
+            <ccts:Name>Malawi Kwacha</ccts:Name>
           </xsd:documentation>
         </xsd:annotation>
       </xsd:enumeration>
@@ -828,7 +828,7 @@ FITNESS FOR A PARTICULAR PURPOSE.
       <xsd:enumeration value="PEN">
         <xsd:annotation>
           <xsd:documentation xml:lang="en">
-            <ccts:Name>Nuevo Sol</ccts:Name>
+            <ccts:Name>Sol</ccts:Name>
           </xsd:documentation>
         </xsd:annotation>
       </xsd:enumeration>
@@ -1123,7 +1123,7 @@ FITNESS FOR A PARTICULAR PURPOSE.
       <xsd:enumeration value="VEF">
         <xsd:annotation>
           <xsd:documentation xml:lang="en">
-            <ccts:Name>Bolivar</ccts:Name>
+            <ccts:Name>Bolívar</ccts:Name>
           </xsd:documentation>
         </xsd:annotation>
       </xsd:enumeration>
