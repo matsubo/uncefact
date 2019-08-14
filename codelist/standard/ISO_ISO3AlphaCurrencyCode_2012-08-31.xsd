@@ -4,14 +4,14 @@
 <!-- ====================================================================== -->
 <!--
 Schema agency:  UN/CEFACT
-Schema version: 9.9
-Schema date:    03NOV17
+Schema version: 9.10
+Schema date:    28NOV2018
 
 Code list name:     ISO 3 Alpha Currency Code
 Code list agency:   ISO
 Code list version:  2012-08-31
 
-Copyright (C) UN/CEFACT (OV17). All Rights Reserved.
+Copyright (C) UN/CEFACT (2018). All Rights Reserved.
 
 This document and translations of it may be copied and furnished to others, 
 and derivative works that comment on or otherwise explain it or assist 
@@ -34,7 +34,7 @@ BUT NOT LIMITED TO ANY WARRANTY THAT THE USE OF THE INFORMATION HEREIN WILL
 NOT INFRINGE ANY RIGHTS OR ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR 
 FITNESS FOR A PARTICULAR PURPOSE.
 -->
-<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:clm5ISO42173A="urn:un:unece:uncefact:codelist:standard:ISO:ISO3AlphaCurrencyCode:2012-08-31" xmlns:ccts="urn:un:unece:uncefact:documentation:standard:CoreComponentsTechnicalSpecification:2" targetNamespace="urn:un:unece:uncefact:codelist:standard:ISO:ISO3AlphaCurrencyCode:2012-08-31" elementFormDefault="qualified" attributeFormDefault="unqualified" version="9.9">
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:clm5ISO42173A="urn:un:unece:uncefact:codelist:standard:ISO:ISO3AlphaCurrencyCode:2012-08-31" xmlns:ccts="urn:un:unece:uncefact:documentation:standard:CoreComponentsTechnicalSpecification:2" targetNamespace="urn:un:unece:uncefact:codelist:standard:ISO:ISO3AlphaCurrencyCode:2012-08-31" elementFormDefault="qualified" attributeFormDefault="unqualified" version="9.10">
 <!-- ======================================================================= -->
 <!-- ===== Element Declarations                                        ===== -->
 <!-- ======================================================================= -->
@@ -713,7 +713,7 @@ FITNESS FOR A PARTICULAR PURPOSE.
           </xsd:documentation>
         </xsd:annotation>
       </xsd:enumeration>
-      <xsd:enumeration value="MRO">
+      <xsd:enumeration value="MRU">
         <xsd:annotation>
           <xsd:documentation xml:lang="en">
             <ccts:Name>Ouguiya</ccts:Name>
@@ -1124,6 +1124,13 @@ FITNESS FOR A PARTICULAR PURPOSE.
         <xsd:annotation>
           <xsd:documentation xml:lang="en">
             <ccts:Name>Bolívar</ccts:Name>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="VES">
+        <xsd:annotation>
+          <xsd:documentation xml:lang="en">
+            <ccts:Name>Bolívar Soberano</ccts:Name>
           </xsd:documentation>
         </xsd:annotation>
       </xsd:enumeration>
